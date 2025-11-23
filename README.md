@@ -3,7 +3,9 @@
    <br><a href="https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml"><img alt="Build" src="https://github.com/apurvsinghgautam/robin/actions/workflows/binary.yml/badge.svg"></a> <a href="https://github.com/apurvsinghgautam/robin/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/apurvsinghgautam/robin"></a> <a href="https://hub.docker.com/r/apurvsg/robin"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/apurvsg/robin"></a>
    <h1>mavan: AI-Powered Dark Web early warning</h1>
 
-   <p>mavan is an AI-powered tool for early warning darkweb warning system for finding data leaks on the darkweb. It leverages LLMs to refine queries, filter search results from dark web search engines, and provide an investigation summary.</p>
+   <p>Mavan is an AI-powered early-warning system that monitors the dark web for potential data leaks.
+It uses large-language-model (LLM) technology to refine search queries, filter results from dark-web sources, and generate concise investigation summaries.
+The goal: detect exposed information within seconds of it appearing online and provide actionable, privacy-safe intelligence for quick response and reporting.</p>
    <a href="#installation">Installation</a> &bull; <a href="#usage">Usage</a> &bull; <a href="#contributing">Contributing</a> &bull; <a href="#acknowledgements">Acknowledgements</a><br><br>
 </div>
 
@@ -129,6 +131,7 @@ Open an Issue for any of these situations:
 - Tools inspiration from my [OSINT Tools for the Dark Web](https://github.com/apurvsinghgautam/dark-web-osint-tools) repository.
 - LLM Prompt inspiration from [OSINT-Assistant](https://github.com/AXRoux/OSINT-Assistant) repository.
 - Logo Design by my friend [Tanishq Rupaal](https://github.com/Tanq16/)
+
 
 
 
